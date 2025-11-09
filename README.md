@@ -37,9 +37,11 @@ python calculator.py
 
   
 🙌 Acknowledgments
+
 Thanks to the Python community and online tutorials that helped me get started. This is one of my first steps toward building a strong portfolio.
 
-Want help polishing your GitHub repo structure or adding a license and contribution guide next?
+
+
 
 
 
